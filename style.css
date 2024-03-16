@@ -155,7 +155,7 @@ border:none;
  section.first>div{
     display:flex;
     flex-direction: column;
-    padding: 34px 0;
+    padding: 34px 0px;
 }
 .first > div :first-child
 {
